@@ -4,3 +4,4 @@
 # 04-01-spring-data-jpa-handson.docx
 # 04-02-spring-data-jpa-handson.docx
 # 04-03-spring-data-jpa-handson.docx
+# Practice Check - truYum App
